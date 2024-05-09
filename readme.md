@@ -1,5 +1,5 @@
-# Web Browse App
-
+# Web Browse
+[中文说明](readme_zh.md)
 Web Browse App is a tool for parsing different types of web page content, including WeChat public articles, Toutiao articles, and other website content.
 
 ## Features
